@@ -42,3 +42,6 @@ INTERN-WEEK/
 ## Final presentation
 
 See `day-10/final-project/presentation-outline.md`.
+
+## Visual output
+https://vercel.com/shreya-a5e8/intern-week-01
